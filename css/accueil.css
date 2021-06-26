@@ -1,3 +1,10 @@
 .navbar-nav > .active > a {
     background-color: rgb(153, 221, 238);
 }
+
+.ajoutColab {
+    position: absolute;
+    top: 90px;
+    right: 10px;
+}
+
